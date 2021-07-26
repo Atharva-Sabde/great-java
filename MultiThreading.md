@@ -10,13 +10,12 @@
 <details>
 <summary>=============    CONTENTS    =============</summary>
 <br> <br>
-1.Introduction
+1. [Introduction](https://www.notion.so/MultiThreading-in-Java-8d62aaeb309f455eb53774554319ca06)
 
 2. The ways to define, instantiate and start a new Thread.
 
 1. By extending Thread class
-2. By implementing Runnable interface
-
+2.  By implementing Runnable interface
 1. Thread class Constructors
 2. Thread Prioirity
 3. Getting and Setting name of a thread
