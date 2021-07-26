@@ -29,3 +29,10 @@
         4. Green Thread
         5. Thread local
     10. Lifecycle of Thread.
+
+
+<details>
+<summary>How do I dropdown?</summary>
+<br>
+This is how you dropdown.
+</details>
