@@ -10,7 +10,7 @@
 <details>
 <summary>=============    CONTENTS    =============</summary>
 <br> <br>
-1. [Introduction](https://www.notion.so/MultiThreading-in-Java-8d62aaeb309f455eb53774554319ca06)
+1. Introduction
 
 2. The ways to define, instantiate and start a new Thread.
 
