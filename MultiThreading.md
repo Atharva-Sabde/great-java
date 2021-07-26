@@ -1,9 +1,15 @@
 # MultiThreading in Java
 <hr>
 <hr>
-## =============    CONTENTS    =============
 
 
+
+
+
+
+<details>
+<summary>## =============    CONTENTS    =============</summary>
+<br>
     1. Introduction
 
     2. The ways to define, instantiate and start a new Thread.
@@ -29,10 +35,4 @@
         4. Green Thread
         5. Thread local
     10. Lifecycle of Thread.
-
-
-<details>
-<summary>How do I dropdown?</summary>
-<br>
-This is how you dropdown.
 </details>
