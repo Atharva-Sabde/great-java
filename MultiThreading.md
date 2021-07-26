@@ -35,3 +35,24 @@
     5. Thread local
 10. Lifecycle of Thread.
 </details>
+
+
+## Introduction:
+
+Multitasking: why? To increase the efficiency and reduce idle time to improve performance.
+
+Reduce response time of the system.
+
+1. Process Based Multitasking
+process based multitasking is best suitable at OS level.
+2. Thread Based Multitasking
+
+    Executing several tasks simultaneously where each task is separate independent part of a single program, and each part is called a thread.
+
+    Best suitable at Programmatic  level.
+
+What is Thread? :  a part of a huge program 
+
+Main method is executed by main thread.
+
+If the code has dependency ,then do not use multithreading.
