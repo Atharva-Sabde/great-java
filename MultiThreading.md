@@ -8,8 +8,9 @@
 
 
 <details>
-# <summary>=============    CONTENTS    =============</summary>
-<br>
+<summary>=============    CONTENTS    =============</summary>
+<br> <br>
+    
     1. Introduction
 
     2. The ways to define, instantiate and start a new Thread.
