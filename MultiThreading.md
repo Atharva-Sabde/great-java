@@ -52,3 +52,17 @@ Reduce response time of the system.
     - Best suitable at Programmatic  level.
 
 Whether it is Process based or Thread based the main objective of multitasking is to improve performance of the system by reducing response time.
+ 
+<hr>
+
+What is Thread? :  A small discrete part of a large program.
+
+- Java provides in built support for multithreading through a rich
+API (Thread, Runnable, ThreadGroup, ThreadLocal...etc).
+- In multithreading on 10% of the work the programmer is required to do and
+90% of the work will be down by java API.
+- Main method is executed by main thread.
+- Execution of threads can be mixed depending on system and each run.
+- Applications include : Multimedia graphics , Games , animations , application-servers.
+
+If the code has dependency ,then do not use multithreading.
