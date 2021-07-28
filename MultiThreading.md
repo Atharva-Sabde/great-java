@@ -55,6 +55,7 @@ Whether it is Process based or Thread based the main objective of multitasking i
  
 <hr>
 
+
 What is Thread? :  A small discrete part of a large program.
 
 - Java provides in built support for multithreading through a rich
@@ -66,3 +67,6 @@ API (Thread, Runnable, ThreadGroup, ThreadLocal...etc).
 - Applications include : Multimedia graphics , Games , animations , application-servers.
 
 If the code has dependency ,then do not use multithreading.
+
+![image](https://user-images.githubusercontent.com/67774570/127376494-68ee363d-4360-4eb3-b7e7-8d1ae3db5792.png)
+
