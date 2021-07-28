@@ -70,3 +70,20 @@ If the code has dependency ,then do not use multithreading.
 
 ![image](https://user-images.githubusercontent.com/67774570/127376494-68ee363d-4360-4eb3-b7e7-8d1ae3db5792.png)
 
+
+
+## The ways to define, instantiate and start a new Thread:
+
+1. Extending Thread Class
+2. Implementing Runnable Interface
+
+### Best approach to define a Thread:
+
+- Among the 2 ways of defining a Thread, implements Runnable approach is
+always recommended.
+- In the 1st approach our class should always extends Thread class there is no
+chance of extending any other class hence we are missing the benefits of
+inheritance.
+- But in the 2nd approach while implementing Runnable interface we can extend
+some other class also. Hence implements Runnable mechanism is recommended
+to define a Thread.
