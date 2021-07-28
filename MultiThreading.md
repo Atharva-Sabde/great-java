@@ -43,16 +43,12 @@ Multitasking: why? To increase the efficiency and reduce idle time to improve pe
 
 Reduce response time of the system.
 
-1. Process Based Multitasking
-process based multitasking is best suitable at OS level.
-2. Thread Based Multitasking
 
-    Executing several tasks simultaneously where each task is separate independent part of a single program, and each part is called a thread.
+- Process Based Multitasking
+    - Typing code , listening to music , and downloading content at the same time also resembles multitasking but it comes under process based multitasking because all the tasks are independent of each other but executing simultaneously.
+    - Best suitable at OS level.
+- Thread Based Multitasking
+    - Executing several tasks simultaneously where each task is separate independent part of a single program, where, each part is called a thread.
+    - Best suitable at Programmatic  level.
 
-    Best suitable at Programmatic  level.
-
-What is Thread? :  a part of a huge program 
-
-Main method is executed by main thread.
-
-If the code has dependency ,then do not use multithreading.
+Whether it is Process based or Thread based the main objective of multitasking is to improve performance of the system by reducing response time.
